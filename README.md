@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steveyout" alt="steveyout" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/steve_yout" target="blank"><img src="https://img.shields.io/twitter/follow/steve_yout?logo=twitter&style=for-the-badge" alt="steve_yout" /></a> </p>
+<p align="left"> <a href="https://twitter.com/youtsteve" target="blank"><img src="https://img.shields.io/twitter/follow/youtsteve?logo=twitter&style=for-the-badge" alt="youtsteve" /></a> </p>
 
 - 🔭 I’m currently working on [Youplex](https://youplex.live)
 
