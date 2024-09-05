@@ -8,7 +8,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=steveyout&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-🔭 I’m currently working on [Freebies](https://freeebies.site/)<br>👯 I’m looking to collaborate on  [Freebies](https://freeebies.site/)<br>🤝 I’m looking for help with  [Freebies](https://freeebies.site/)<br>🌱 I’m currently learning Golang<br>💬 Ask me about anything to do with php and nodejs<br>⚡ Fun factj **FThe term "bug" in programming originated from an actual insect found in a computer in 1947. Grace Hopper, a pioneer in computer programming, removed the moth and recorded the incident in the logbook, marking the first recorded instance of a "bug" in computing.**
+🔭 I’m currently working on [Freebies](https://freeebies.site/)<br>👯 I’m looking to collaborate on  [Freebies](https://freeebies.site/)<br>🤝 I’m looking for help with  [Freebies](https://freeebies.site/)<br>🌱 I’m currently learning Golang<br>💬 Ask me about anything to do with php and nodejs<br>⚡ Fun fact **The term "bug" in programming originated from an actual insect found in a computer in 1947. Grace Hopper, a pioneer in computer programming, removed the moth and recorded the incident in the logbook, marking the first recorded instance of a "bug" in computing.**
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
